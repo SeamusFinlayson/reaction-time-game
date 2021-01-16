@@ -1,11 +1,11 @@
 # my-projects
 
-Files in main make up the reaction time game
+Files in the main branch make up the reaction time game software
 
 A demo can be watched at this link:
 https://youtu.be/a3apH-KlmfM
 
-In the video the code is running on an MSP432P401R launchpad connected to the educational booster pack mkII, both TI products
+In the video the game is running on an MSP432P401R launchpad connected to the educational booster pack mkII, both TI products
 
 How is it used?
 1.	Green light comes on indicating the game is ready to start
