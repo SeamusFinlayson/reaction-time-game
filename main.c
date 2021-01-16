@@ -1,5 +1,5 @@
 // Filename: Seamus Finlayson lab 10 reaction time game main.c
-// Description: reaction timer when the green light comes on press s1 to start,
+// Description: reaction timer game: when the green light comes on press s1 to start,
 //              when the red light comes on press s2 as fast as possible, your
 //              reaction time is being recorded, reaction time displays in
 //              the terminal
